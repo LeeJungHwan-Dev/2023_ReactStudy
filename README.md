@@ -1,5 +1,8 @@
-# 2023_ReactStudy - 개인
-2022 / 01 / 04 ~ Ing
+# 🚀 2023_ReactStudy - 개인
+
+<img src = "https://img.shields.io/badge/Node.js-v19.3.0-blue"/>
+
+#### Start : 2022 / 01 / 04 ~ Ing
 
 ## 🔥 학습 목표
 ~~~
@@ -28,9 +31,9 @@ React를 활용한 현업 프로젝트 적용 능력 향상 및 Web 개발 능�
 
 ## 💭 사용 방법
 ~~~
-git clone https://github.com/LeeJungHwan-Dev/2023_ReactStudy.git
-npm install
-npm start
+1. git clone https://github.com/LeeJungHwan-Dev/2023_ReactStudy.git
+2. npm install
+3. npm start
 ~~~
 
 ## ⚙️ 진행 환경
