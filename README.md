@@ -32,6 +32,4 @@ React를 활용한 현업 프로젝트 적용 능력 향상 및 Web 개발 능�
 * Node / Npm : v19.3.0 / 9.2.0
 * React : 18.2.0
 * React-dom : 18.2.0
-* React-scripts : 5.0.1
-* Web-vitals : 2.1.4
 * Language : JavaScript</br>
