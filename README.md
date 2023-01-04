@@ -29,6 +29,7 @@ React를 활용한 현업 프로젝트 적용 능력 향상 및 Web 개발 능�
 ## 💭 사용 방법
 ~~~
 git clone https://github.com/LeeJungHwan-Dev/2023_ReactStudy.git
+npm install
 npm start
 ~~~
 
