@@ -18,7 +18,7 @@
 
 
 ## 🔍 단원 설명
-* [React 둘러보기](https://github.com/LeeJungHwan-Dev/2023_ReactStudy/wiki/HelloReact)
+* [🚀 React 둘러보기](https://github.com/LeeJungHwan-Dev/2023_ReactStudy/wiki/HelloReact)
 
 ## 💫 학습 효과
 ~~~
