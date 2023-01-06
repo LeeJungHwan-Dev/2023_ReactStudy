@@ -23,6 +23,7 @@
 ## 🔍 단원 설명
 * [🌳 Wiki](https://github.com/LeeJungHwan-Dev/2023_ReactStudy/wiki)
 * [🚀 React 둘러보기](https://github.com/LeeJungHwan-Dev/2023_ReactStudy/wiki/HelloReact)
+* [⭐️ ES6](https://github.com/LeeJungHwan-Dev/2023_ReactStudy/wiki/JavaScript-ES6%3F)
 
 ## 💫 학습 효과
 ~~~
