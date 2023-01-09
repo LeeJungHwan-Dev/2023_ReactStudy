@@ -1,10 +1,19 @@
 import './App.css';
 import React from 'react';
-import PropComponent from './03/PropsComponet';
+import BooleanComponent from './03/BooleanComponent';
 
 class App extends React.Component {
   render() {
-    return <PropComponent name="두잇 리액트" />;
+    return (
+      <div>
+        <div>
+          <b>지루할 때:</b>
+          <BooleanComponent bored />
+          <b>즐거울 때:</b>
+          <BooleanComponent />
+        </div>
+      </div>
+    );
   }
 }
 
