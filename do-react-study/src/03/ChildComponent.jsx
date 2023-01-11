@@ -9,7 +9,7 @@ class ChildComponent extends React.Component {
         <span>불리언값 : {boolValue}</span>
         <span>숫자값 : {numValue}</span>
         <span>배열값 : {arrayValue}</span>
-        <span>객체값 : {String(objValue)}</span>
+        <span>객체값 : {String(Object.entries(objValue))}</span>
         <span>노드값 : {nodeValue}</span>
         <span>함수값 : {String(funcValue)}</span>
       </div>
