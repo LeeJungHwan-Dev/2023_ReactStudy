@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Counter2 from './Counter2';
 
 class Counter extends Component {
   constructor(props) {
@@ -7,8 +8,6 @@ class Counter extends Component {
     this.state = {
       count: props.count,
     };
-
-    this.increaseCount = this.increaseCount.bind(this);
   }
   increaseCount() {
     this.setState({
@@ -17,12 +16,7 @@ class Counter extends Component {
   }
 
   render() {
-    return (
-      <div>
-        현재 카운트: {this.state.count}
-        <button onClick={this.increaseCount}>카운트 증가</button>
-      </div>
-    );
+    return <Counter2 count={this.state.count} />;
   }
 }
 
