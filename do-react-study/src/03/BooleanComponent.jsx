@@ -1,4 +1,5 @@
 import React from 'react';
+import PropsType from 'prop-types';
 
 class BooleanComponent extends React.Component {
   render() {
@@ -6,5 +7,9 @@ class BooleanComponent extends React.Component {
     return <div className="message-container">{message}</div>;
   }
 }
+
+BooleanComponent.propsType = {
+  bored: PropsType.string,
+};
 
 export default BooleanComponent;
