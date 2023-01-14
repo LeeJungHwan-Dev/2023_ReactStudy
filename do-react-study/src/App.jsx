@@ -1,11 +1,11 @@
 import React from 'react';
+import ForceUpdateExample from './03/ForceUpdateExample';
 import './sass/materialize.scss';
 import './App.css';
-import TodayPlan from './03/TodaysPlan';
 
 class App extends React.Component {
   render() {
-    return <TodayPlan />;
+    return <ForceUpdateExample />;
   }
 }
 
