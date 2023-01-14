@@ -1,7 +1,7 @@
 import React from 'react';
 import PropsTypes from 'prop-types';
 
-class ChildCoponent2 extends React.Component {
+class ChildComponent2 extends React.Component {
   render() {
     const { objValue, requiredStringValue } = this.props;
     return (
@@ -13,7 +13,7 @@ class ChildCoponent2 extends React.Component {
   }
 }
 
-ChildCoponent2.propTypes = {
+ChildComponent2.propTypes = {
   objValue: PropsTypes.shape({
     name: PropsTypes.string,
     age: PropsTypes.number,
@@ -22,4 +22,4 @@ ChildCoponent2.propTypes = {
   requiredStringValue: PropsTypes.string.isRequired,
 };
 
-export default ChildCoponent2;
+export default ChildComponent2;
