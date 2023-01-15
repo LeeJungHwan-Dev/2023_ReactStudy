@@ -29,7 +29,7 @@ class Counter3 extends Component {
         <button onClick={this.increateCount} onMouseOut={this.resetCount}>
           카운트 증가
         </button>
-        버튼 밖으로 커서가 움지깅면 0으로 초기화됩니다.
+        버튼 밖으로 커서가 움직이면 0으로 초기화됩니다.
       </div>
     );
   }
