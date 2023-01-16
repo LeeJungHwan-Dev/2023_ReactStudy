@@ -1,11 +1,11 @@
 import React from 'react';
-import ForceUpdateExample from './03/ForceUpdateExample';
+import InputWithStyle from './04/InputWithStyle';
 import './sass/materialize.scss';
 import './App.css';
 
 class App extends React.Component {
   render() {
-    return <ForceUpdateExample />;
+    return <InputWithStyle />;
   }
 }
 
