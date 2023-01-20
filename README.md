@@ -1,6 +1,6 @@
 # 🚀 2023_ReactStudy - 개인
 
-<img src = "https://img.shields.io/badge/Node.js-v19.3.0-blue"/>
+<img src = "https://img.shields.io/badge/Node.js-v10.12.0-blue"/>
 
 #### Start : 2022 / 01 / 04 ~ Ing
 
