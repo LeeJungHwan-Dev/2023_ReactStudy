@@ -43,6 +43,6 @@ React를 활용한 현업 프로젝트 적용 능력 향상 및 Web 개발 능�
 * OS : macOS Ventura 13.1 </br>
 * IDE : Visual Studio Code 1.72.2 (Universal)</br>
 * Node : v10.12.0
-* React : 18.2.0
-* React-dom : 18.2.0
+* React : v18.2.0
+* React-dom : v18.2.0
 * Language : JavaScript</br>
