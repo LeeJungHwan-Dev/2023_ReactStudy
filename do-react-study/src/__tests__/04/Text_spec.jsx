@@ -1,5 +1,5 @@
 import React from 'react';
-import { shallow } from 'enzyme';
+import { shallow, mount } from 'enzyme';
 
 import Text from '../../04/Text';
 
@@ -11,6 +11,6 @@ describe('<Text>', () => {
   });
 
   it('contains <span>', () => {
-    expect(shallow(<Text>테스트</Text>).find('span')).toHaveLength(1);
+    expect(mount(<Text>테스트</Text>).find('span')).toHaveLength(1);
   });
 });
