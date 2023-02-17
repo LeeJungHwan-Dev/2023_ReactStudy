@@ -2,7 +2,7 @@
 
 <img src = "https://img.shields.io/badge/Node.js-v10.12.0-blue"/>
 
-#### Start : 2022 / 01 / 04 ~ Ing
+#### Start : 2022 / 01 / 04 ~ End : 2022 / 02 / 17
 
 ## 🔥 학습 목표
 ~~~
